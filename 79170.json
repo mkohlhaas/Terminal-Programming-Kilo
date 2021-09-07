@@ -1,0 +1,1182 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 25,
+  "duration": 52.311577,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.465012,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000042,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/kilo\u0007"
+    ],
+    [
+      0.068824,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mkilo ➤ \u001b[00m"
+    ],
+    [
+      0.000025,
+      "\u001b[K\u001b[65C\u001b[31m :master: \u001b[00m\u001b[75D"
+    ],
+    [
+      1.558637,
+      "."
+    ],
+    [
+      0.013830,
+      "\u0008./"
+    ],
+    [
+      0.268380,
+      "k"
+    ],
+    [
+      0.105584,
+      "i"
+    ],
+    [
+      0.137242,
+      "lo\u001b[1m \u001b[0m"
+    ],
+    [
+      0.415702,
+      "\u0008\u001b[0m /"
+    ],
+    [
+      0.114547,
+      "t"
+    ],
+    [
+      0.095466,
+      "m"
+    ],
+    [
+      0.161267,
+      "p\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.664840,
+      "\u0008\u001b[0m/t"
+    ],
+    [
+      0.067990,
+      "e"
+    ],
+    [
+      0.056033,
+      "s"
+    ],
+    [
+      0.043702,
+      "t"
+    ],
+    [
+      0.097071,
+      "."
+    ],
+    [
+      0.120641,
+      "c"
+    ],
+    [
+      0.347394,
+      "\r\r\n"
+    ],
+    [
+      0.000997,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ./kilo /tmp/test.c\u0007"
+    ],
+    [
+      0.003255,
+      "\u001b[?25l\u001b[H~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~                       Kilo editor -- verison 0.0.1\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 0 lines                                                           1/0\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.734582,
+      "\u001b[?25l\u001b[Hi\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.163804,
+      "\u001b[?25l\u001b[Hii\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.058791,
+      "\u001b[?25l\u001b[Hiin\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.024747,
+      "\u001b[?25l\u001b[Hiint\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.075449,
+      "\u001b[?25l\u001b[Hiint \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      0.151895,
+      "\u001b[?25l\u001b[Hiint m\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.068565,
+      "\u001b[?25l\u001b[Hiint ma\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.075583,
+      "\u001b[?25l\u001b[Hiint mai\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;9H\u001b[?25h"
+    ],
+    [
+      0.045451,
+      "\u001b[?25l\u001b[Hiint main\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.188822,
+      "\u001b[?25l\u001b[Hiint mai\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;9H\u001b[?25h"
+    ],
+    [
+      0.251343,
+      "\u001b[?25l\u001b[Hiint ma\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.034082,
+      "\u001b[?25l\u001b[Hiint m\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.038576,
+      "\u001b[?25l\u001b[Hiint \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      0.029311,
+      "\u001b[?25l\u001b[Hiint\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.034320,
+      "\u001b[?25l\u001b[Hiin\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.034804,
+      "\u001b[?25l\u001b[Hii\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.033452,
+      "\u001b[?25l\u001b[Hi\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.150898,
+      "\u001b[?25l\u001b[Hii\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.325263,
+      "\u001b[?25l\u001b[Hiin\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.175970,
+      "\u001b[?25l\u001b[Hii\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.121853,
+      "\u001b[?25l\u001b[Hi\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.115624,
+      "\u001b[?25l\u001b[Hin\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.028139,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.091846,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.063799,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m m\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      0.104764,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m ma\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.055767,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m mai\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.072050,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;9H\u001b[?25h"
+    ],
+    [
+      0.135754,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.206932,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(o\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;11H\u001b[?25h"
+    ],
+    [
+      0.122579,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(oi\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;12H\u001b[?25h"
+    ],
+    [
+      0.076043,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(oid\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;13H\u001b[?25h"
+    ],
+    [
+      0.095469,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(oid)\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.232035,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(oid\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;13H\u001b[?25h"
+    ],
+    [
+      0.131734,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(oi\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;12H\u001b[?25h"
+    ],
+    [
+      0.150453,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(o\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;11H\u001b[?25h"
+    ],
+    [
+      0.134934,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.076210,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(v\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;11H\u001b[?25h"
+    ],
+    [
+      0.052056,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(vo\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;12H\u001b[?25h"
+    ],
+    [
+      0.134092,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(voi\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;13H\u001b[?25h"
+    ],
+    [
+      0.063280,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.120752,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m)\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;15H\u001b[?25h"
+    ],
+    [
+      0.168310,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;16H\u001b[?25h"
+    ],
+    [
+      0.100098,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;17H\u001b[?25h"
+    ],
+    [
+      0.216394,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.372729,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;2H\u001b[?25h"
+    ],
+    [
+      0.574483,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;2H\u001b[?25h"
+    ],
+    [
+      0.010790,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}k\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;3H\u001b[?25h"
+    ],
+    [
+      0.215103,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}k$\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;4H\u001b[?25h"
+    ],
+    [
+      0.266015,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}k\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;3H\u001b[?25h"
+    ],
+    [
+      0.144943,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;2H\u001b[?25h"
+    ],
+    [
+      0.317953,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                1/2\u001b[0m\r\n\u001b[0K\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.408581,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                1/2\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.781659,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.258832,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;1H\u001b[?25h"
+    ],
+    [
+      0.245994,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.755035,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       \u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;8H\u001b[?25h"
+    ],
+    [
+      0.244005,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       p\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;9H\u001b[?25h"
+    ],
+    [
+      0.081687,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       pr\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;10H\u001b[?25h"
+    ],
+    [
+      0.076338,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       pri\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;11H\u001b[?25h"
+    ],
+    [
+      0.019446,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       prin\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;12H\u001b[?25h"
+    ],
+    [
+      0.099964,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       print\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;13H\u001b[?25h"
+    ],
+    [
+      0.145488,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;14H\u001b[?25h"
+    ],
+    [
+      0.095990,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;15H\u001b[?25h"
+    ],
+    [
+      0.176043,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;16H\u001b[?25h"
+    ],
+    [
+      0.312118,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"H\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;17H\u001b[?25h"
+    ],
+    [
+      0.094933,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"He\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;18H\u001b[?25h"
+    ],
+    [
+      0.048042,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;19H\u001b[?25h"
+    ],
+    [
+      0.093638,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hell\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;20H\u001b[?25h"
+    ],
+    [
+      0.129224,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;21H\u001b[?25h"
+    ],
+    [
+      0.084390,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello \u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;22H\u001b[?25h"
+    ],
+    [
+      0.063457,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello W\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;23H\u001b[?25h"
+    ],
+    [
+      0.120668,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello Wo\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;24H\u001b[?25h"
+    ],
+    [
+      0.137330,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello Wor\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;25H\u001b[?25h"
+    ],
+    [
+      0.024023,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello Worl\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;26H\u001b[?25h"
+    ],
+    [
+      0.146977,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;27H\u001b[?25h"
+    ],
+    [
+      0.203722,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;28H\u001b[?25h"
+    ],
+    [
+      0.455973,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;29H\u001b[?25h"
+    ],
+    [
+      0.072444,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;30H\u001b[?25h"
+    ],
+    [
+      0.188311,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;31H\u001b[?25h"
+    ],
+    [
+      0.176231,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m)\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;32H\u001b[?25h"
+    ],
+    [
+      0.214384,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                2/3\u001b[0m\r\n\u001b[0K\u001b[2;33H\u001b[?25h"
+    ],
+    [
+      0.523147,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;1H\u001b[?25h"
+    ],
+    [
+      0.608554,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;8H\u001b[?25h"
+    ],
+    [
+      0.233298,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       r\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;9H\u001b[?25h"
+    ],
+    [
+      0.059750,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       re\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;10H\u001b[?25h"
+    ],
+    [
+      0.100340,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       ret\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;11H\u001b[?25h"
+    ],
+    [
+      0.060107,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       retu\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;12H\u001b[?25h"
+    ],
+    [
+      0.080477,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       retur\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;13H\u001b[?25h"
+    ],
+    [
+      0.051436,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;14H\u001b[?25h"
+    ],
+    [
+      0.083515,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;15H\u001b[?25h"
+    ],
+    [
+      0.080426,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;16H\u001b[?25h"
+    ],
+    [
+      0.166495,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;17H\u001b[?25h"
+    ],
+    [
+      1.676016,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;17H\u001b[?25h"
+    ],
+    [
+      2.119400,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           3/4\u001b[0m\r\n\u001b[0K57 bytes written on disk\u001b[3;17H\u001b[?25h"
+    ],
+    [
+      2.081232,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000065,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/kilo\u0007"
+    ],
+    [
+      0.051854,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mkilo ➤ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[65C\u001b[31m :master: \u001b[00m\u001b[75D"
+    ],
+    [
+      0.385289,
+      "\r\r\n"
+    ],
+    [
+      0.000281,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000071,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/kilo\u0007"
+    ],
+    [
+      0.043565,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mkilo ➤ \u001b[00m"
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[65C\u001b[31m :master: \u001b[00m\u001b[75D"
+    ],
+    [
+      0.087706,
+      "\r\r\n"
+    ],
+    [
+      0.000311,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000063,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/kilo\u0007"
+    ],
+    [
+      0.043663,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mkilo ➤ \u001b[00m"
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[65C\u001b[31m :master: \u001b[00m\u001b[75D"
+    ],
+    [
+      0.090082,
+      "\r\r\n"
+    ],
+    [
+      0.000288,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000046,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/kilo\u0007"
+    ],
+    [
+      0.043813,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mkilo ➤ \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[65C\u001b[31m :master: \u001b[00m\u001b[75D"
+    ],
+    [
+      0.111796,
+      "\r\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000072,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/kilo\u0007"
+    ],
+    [
+      0.041353,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mkilo ➤ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[65C\u001b[31m :master: \u001b[00m\u001b[75D"
+    ],
+    [
+      0.192650,
+      "./kilo /tmp/test.c"
+    ],
+    [
+      0.696638,
+      "\r\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ./kilo /tmp/test.c\u0007"
+    ],
+    [
+      0.002972,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           1/4\u001b[0m\r\n\u001b[0KHELP: Ctrl-S = save | Ctrl-Q = quit | Ctrl-F = find\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      1.043287,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           1/4\u001b[0m\r\n\u001b[0KSearch:  (Use ESC/Arrows/Enter)\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      1.557345,
+      "\u001b[?25l\u001b[H       \u001b[34mp\u001b[39mrintf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           2/4\u001b[0m\r\n\u001b[0KSearch: p (Use ESC/Arrows/Enter)\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.067656,
+      "\u001b[?25l\u001b[H       \u001b[34mpr\u001b[39mintf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           2/4\u001b[0m\r\n\u001b[0KSearch: pr (Use ESC/Arrows/Enter)\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.090306,
+      "\u001b[?25l\u001b[H       \u001b[34mpri\u001b[39mntf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           2/4\u001b[0m\r\n\u001b[0KSearch: pri (Use ESC/Arrows/Enter)\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.043780,
+      "\u001b[?25l\u001b[H       \u001b[34mprin\u001b[39mtf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           2/4\u001b[0m\r\n\u001b[0KSearch: prin (Use ESC/Arrows/Enter)\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.075457,
+      "\u001b[?25l\u001b[H       \u001b[34mprint\u001b[39mf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           2/4\u001b[0m\r\n\u001b[0KSearch: print (Use ESC/Arrows/Enter)\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      1.402783,
+      "\u001b[?25l\u001b[H       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines                                                           2/4\u001b[0m\r\n\u001b[0K\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.394711,
+      "\u001b[?25l\u001b[H       printfk(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                2/4\u001b[0m\r\n\u001b[0K\u001b[1;15H\u001b[?25h"
+    ],
+    [
+      0.128750,
+      "\u001b[?25l\u001b[H       printfkk(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                2/4\u001b[0m\r\n\u001b[0K\u001b[1;16H\u001b[?25h"
+    ],
+    [
+      0.168439,
+      "\u001b[?25l\u001b[H       printfkkk(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                2/4\u001b[0m\r\n\u001b[0K\u001b[1;17H\u001b[?25h"
+    ],
+    [
+      0.345935,
+      "\u001b[?25l\u001b[H       printfkk(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                2/4\u001b[0m\r\n\u001b[0K\u001b[1;16H\u001b[?25h"
+    ],
+    [
+      0.130101,
+      "\u001b[?25l\u001b[H       printfk(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                2/4\u001b[0m\r\n\u001b[0K\u001b[1;15H\u001b[?25h"
+    ],
+    [
+      0.501003,
+      "\u001b[?25l\u001b[H       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                2/4\u001b[0m\r\n\u001b[0K\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.257121,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                1/4\u001b[0m\r\n\u001b[0K\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.133819,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                1/4\u001b[0m\r\n\u001b[0K\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.135663,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                1/4\u001b[0m\r\n\u001b[0K\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.334464,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                2/4\u001b[0m\r\n\u001b[0K\u001b[2;14H\u001b[?25h"
+    ],
+    [
+      0.225428,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;14H\u001b[?25h"
+    ],
+    [
+      0.688261,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;13H\u001b[?25h"
+    ],
+    [
+      0.251038,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;12H\u001b[?25h"
+    ],
+    [
+      0.033479,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;11H\u001b[?25h"
+    ],
+    [
+      0.033543,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;10H\u001b[?25h"
+    ],
+    [
+      0.038527,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;9H\u001b[?25h"
+    ],
+    [
+      0.039065,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;8H\u001b[?25h"
+    ],
+    [
+      0.172530,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;1H\u001b[?25h"
+    ],
+    [
+      0.486914,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                3/4\u001b[0m\r\n\u001b[0K\u001b[3;8H\u001b[?25h"
+    ],
+    [
+      0.585764,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n}\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                4/4\u001b[0m\r\n\u001b[0K\u001b[4;2H\u001b[?25h"
+    ],
+    [
+      0.297440,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 4 lines (modified)                                                4/4\u001b[0m\r\n\u001b[0K\u001b[4;1H\u001b[?25h"
+    ],
+    [
+      0.250316,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m;\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;17H\u001b[?25h"
+    ],
+    [
+      0.039769,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[31m0\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;16H\u001b[?25h"
+    ],
+    [
+      0.029520,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;15H\u001b[?25h"
+    ],
+    [
+      0.034324,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[33mreturn\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;14H\u001b[?25h"
+    ],
+    [
+      0.032600,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       retur\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;13H\u001b[?25h"
+    ],
+    [
+      0.034130,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       retu\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;12H\u001b[?25h"
+    ],
+    [
+      0.033851,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       ret\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;11H\u001b[?25h"
+    ],
+    [
+      0.034463,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       re\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;10H\u001b[?25h"
+    ],
+    [
+      0.033615,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       r\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;9H\u001b[?25h"
+    ],
+    [
+      0.033592,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n       \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;8H\u001b[?25h"
+    ],
+    [
+      0.033633,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 3 lines (modified)                                                3/3\u001b[0m\r\n\u001b[0K\u001b[3;1H\u001b[?25h"
+    ],
+    [
+      0.034138,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m);\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;33H\u001b[?25h"
+    ],
+    [
+      0.033764,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m)\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;32H\u001b[?25h"
+    ],
+    [
+      0.033576,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\"\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;31H\u001b[?25h"
+    ],
+    [
+      0.039668,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\n\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;30H\u001b[?25h"
+    ],
+    [
+      0.028876,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\\\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;29H\u001b[?25h"
+    ],
+    [
+      0.033909,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World!\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;28H\u001b[?25h"
+    ],
+    [
+      0.033655,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello World\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;27H\u001b[?25h"
+    ],
+    [
+      0.038506,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello Worl\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;26H\u001b[?25h"
+    ],
+    [
+      0.030928,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello Wor\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;25H\u001b[?25h"
+    ],
+    [
+      0.033148,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello Wo\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;24H\u001b[?25h"
+    ],
+    [
+      0.039599,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello W\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;23H\u001b[?25h"
+    ],
+    [
+      0.027939,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;22H\u001b[?25h"
+    ],
+    [
+      0.033314,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hello\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;21H\u001b[?25h"
+    ],
+    [
+      0.038476,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hell\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;20H\u001b[?25h"
+    ],
+    [
+      0.030105,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;19H\u001b[?25h"
+    ],
+    [
+      0.251590,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;18H\u001b[?25h"
+    ],
+    [
+      0.251429,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;17H\u001b[?25h"
+    ],
+    [
+      0.034192,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;16H\u001b[?25h"
+    ],
+    [
+      0.033905,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;15H\u001b[?25h"
+    ],
+    [
+      0.034345,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;14H\u001b[?25h"
+    ],
+    [
+      0.032377,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;13H\u001b[?25h"
+    ],
+    [
+      0.034407,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;12H\u001b[?25h"
+    ],
+    [
+      0.039765,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;11H\u001b[?25h"
+    ],
+    [
+      0.028937,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;10H\u001b[?25h"
+    ],
+    [
+      0.034045,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;9H\u001b[?25h"
+    ],
+    [
+      0.346847,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\n       printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;8H\u001b[?25h"
+    ],
+    [
+      0.282254,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {\u001b[39m\u001b[0K\r\nprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 2 lines (modified)                                                2/2\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.250533,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) {printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;17H\u001b[?25h"
+    ],
+    [
+      0.033319,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m) printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;16H\u001b[?25h"
+    ],
+    [
+      0.034195,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(\u001b[32mvoid\u001b[39m)printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;15H\u001b[?25h"
+    ],
+    [
+      0.033977,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(voidprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;14H\u001b[?25h"
+    ],
+    [
+      0.033923,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(voiprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;13H\u001b[?25h"
+    ],
+    [
+      0.034210,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(voprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;12H\u001b[?25h"
+    ],
+    [
+      0.033769,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(vprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;11H\u001b[?25h"
+    ],
+    [
+      0.033542,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m main(printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.038697,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m mainprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;9H\u001b[?25h"
+    ],
+    [
+      0.029282,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m maiprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.034807,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m maprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.033721,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m mprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      0.034004,
+      "\u001b[?25l\u001b[H\u001b[32mint\u001b[39m printf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.033690,
+      "\u001b[?25l\u001b[Hintprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.033056,
+      "\u001b[?25l\u001b[Hinprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.038724,
+      "\u001b[?25l\u001b[Hiprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.030042,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.033626,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.034273,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.034465,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.033171,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.033439,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.034267,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.032961,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.034358,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.038295,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.031148,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.204940,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.250315,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.033400,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.033864,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.033949,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      0.032965,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.034615,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.039258,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;9H\u001b[?25h"
+    ],
+    [
+      0.030058,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.034212,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;11H\u001b[?25h"
+    ],
+    [
+      0.039589,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;12H\u001b[?25h"
+    ],
+    [
+      0.028723,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.033364,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.039175,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.109270,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.250248,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.039414,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.029760,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.032908,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.038176,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.030009,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.033644,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.039582,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.029113,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                2/1\u001b[0m\r\n\u001b[0K\u001b[2;1H\u001b[?25h"
+    ],
+    [
+      0.421709,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"Hel\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;12H\u001b[?25h"
+    ],
+    [
+      0.525305,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"He\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;11H\u001b[?25h"
+    ],
+    [
+      0.250682,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"H\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.033847,
+      "\u001b[?25l\u001b[Hprintf(\u001b[35m\"\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;9H\u001b[?25h"
+    ],
+    [
+      0.034428,
+      "\u001b[?25l\u001b[Hprintf(\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.033275,
+      "\u001b[?25l\u001b[Hprintf\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.033957,
+      "\u001b[?25l\u001b[Hprint\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      0.033903,
+      "\u001b[?25l\u001b[Hprin\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.033924,
+      "\u001b[?25l\u001b[Hpri\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      0.033518,
+      "\u001b[?25l\u001b[Hpr\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.038171,
+      "\u001b[?25l\u001b[Hp\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.030084,
+      "\u001b[?25l\u001b[H\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.033979,
+      "\u001b[?25l\u001b[H\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.038154,
+      "\u001b[?25l\u001b[H\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;1H\u001b[?25h"
+    ],
+    [
+      0.173316,
+      "\u001b[?25l\u001b[H/\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;2H\u001b[?25h"
+    ],
+    [
+      0.124902,
+      "\u001b[?25l\u001b[H\u001b[36m//\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;3H\u001b[?25h"
+    ],
+    [
+      0.112201,
+      "\u001b[?25l\u001b[H\u001b[36m// \u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;4H\u001b[?25h"
+    ],
+    [
+      1.867986,
+      "\u001b[?25l\u001b[H\u001b[36m// E\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;5H\u001b[?25h"
+    ],
+    [
+      0.091889,
+      "\u001b[?25l\u001b[H\u001b[36m// En\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;6H\u001b[?25h"
+    ],
+    [
+      0.140406,
+      "\u001b[?25l\u001b[H\u001b[36m// Enj\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;7H\u001b[?25h"
+    ],
+    [
+      0.092254,
+      "\u001b[?25l\u001b[H\u001b[36m// Enjo\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;8H\u001b[?25h"
+    ],
+    [
+      0.135970,
+      "\u001b[?25l\u001b[H\u001b[36m// Enjoy\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;9H\u001b[?25h"
+    ],
+    [
+      0.217522,
+      "\u001b[?25l\u001b[H\u001b[36m// Enjoy!\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.994870,
+      "\u001b[?25l\u001b[H\u001b[36m// Enjoy!\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines (modified)                                                1/1\u001b[0m\r\n\u001b[0K\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.992376,
+      "\u001b[?25l\u001b[H\u001b[36m// Enjoy!\u001b[39m\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n~\u001b[0K\r\n\u001b[0K\u001b[7m/tmp/test.c - 1 lines                                                           1/1\u001b[0m\r\n\u001b[0K10 bytes written on disk\u001b[1;10H\u001b[?25h"
+    ],
+    [
+      0.776535,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                  \r \r"
+    ],
+    [
+      0.000060,
+      "\u001b]0;antirez@Salvatores-MacBook-Air: ~/hack/kilo\u0007"
+    ],
+    [
+      0.050152,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[31mkilo ➤ \u001b[00m"
+    ],
+    [
+      0.000007,
+      "\u001b[K\u001b[65C\u001b[31m :master: \u001b[00m\u001b[75D"
+    ],
+    [
+      2.206690,
+      "\r\r\n"
+    ]
+  ]
+}

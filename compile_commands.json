@@ -1,0 +1,13 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "kilo",
+            "kilo.c"
+        ],
+        "directory": "/home/schmidh/Gitrepos/kilo",
+        "file": "kilo.c"
+    }
+]
